@@ -31,9 +31,7 @@ MIT license selected!
 # Testing
 Tests are as follows:
 N/A
-
-
-Link to deployed page: https://youtu.be/LPawhyTg_mM 
+Link to deployed page:
 [![demo](https://img.youtube.com/vi/L_7EKykfgqg/0.jpg)](https://youtu.be/LPawhyTg_mM)
 
 # Questions 
