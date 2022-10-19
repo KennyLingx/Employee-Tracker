@@ -28,9 +28,8 @@ MIT license selected!
 # Contribution 
 
 
-# Testing
-Tests are as follows:
-N/A
+# Deloyed Page
+
 <br />
 Link to deployed page:
 <br />
