@@ -25,11 +25,8 @@ Open Commnad line and enter "npm start", then you can choose any activities on t
 MIT license selected! 
           MIT license link:    [MIT License](https://opensource.org/licenses/MIT)
 
-# Contribution 
-
 
 # Deloyed Page
-
 <br />
 Link to deployed page:
 <br />
